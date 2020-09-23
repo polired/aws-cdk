@@ -35,12 +35,12 @@
   "devDependencies": {
     "@types/fs-extra": "^8.1.1",
     "@types/jest": "^26.0.14",
-    "@types/yargs": "^15.0.5",
+    "@types/yargs": "^15.0.6",
     "pkglint": "0.0.0"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.1.1",
-    "@typescript-eslint/parser": "^4.1.1",
+    "@typescript-eslint/eslint-plugin": "^4.2.0",
+    "@typescript-eslint/parser": "^4.2.0",
     "awslint": "0.0.0",
     "colors": "^1.4.0",
     "eslint": "^7.9.0",
@@ -53,7 +53,7 @@
     "jsii-pacmak": "^1.12.0",
     "nodeunit": "^0.11.3",
     "nyc": "^15.1.0",
-    "ts-jest": "^26.3.0",
+    "ts-jest": "^26.4.0",
     "typescript": "~3.9.7",
     "yargs": "^16.0.3",
     "yarn-cling": "0.0.0"
